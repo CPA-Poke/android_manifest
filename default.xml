@@ -459,7 +459,7 @@
  <project path="packages/apps/InCallUI" name="android_packages_apps_InCallUI" remote="du" revision="m" />
  <project path="packages/apps/Launcher3" name="android_packages_apps_Launcher3" remote="du" revision="m" />
  <project path="packages/apps/LockClock" name="android_packages_apps_LockClock" remote="du" revision="m" />
- <project path="packages/apps/Messaging" name="CPA-Poke/android_packages_apps_Messaging" remote="github" revision="m" />
+ <project path="packages/apps/Messaging" name="android_packages_apps_Messaging" remote="du" revision="m" />
  <project path="packages/apps/OmniSwitch" name="android_packages_apps_OmniSwitch" remote="du" revision="m" />
  <project path="packages/apps/PackageInstaller" name="android_packages_apps_PackageInstaller" remote="du" revision="m" />
  <project path="packages/apps/PhoneCommon" name="android_packages_apps_PhoneCommon" remote="du" revision="m" />
