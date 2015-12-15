@@ -479,6 +479,7 @@
 
  <!-- toolchain -->
  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.9" name="android-prebuilts-gcc-linux-x86-arm-arm-eabi-4.9" remote="du" revision="m" />
+ <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-5.2" name="UBERTC/arm-eabi-5.2" remote="bb" revision="master" />
 
  <!-- vendor -->
  <project path="vendor/du" name="android_vendor_du" remote="du" revision="m" />
