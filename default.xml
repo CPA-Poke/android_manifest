@@ -395,7 +395,7 @@
  <!-- DU REPOS -->
  <!-- general -->
  <project path="manifest" name="CPA-Poke/android_manifest" remote="github" revision="m" />
- <project path="build" name="android_build" remote="du" revision="m" >
+ <project path="build" name="CPA-Poke/android_build" remote="github" revision="m" >
  <copyfile src="core/root.mk" dest="Makefile" />
  </project>
  <project path="art" name="platform/art" groups="pdk" />
