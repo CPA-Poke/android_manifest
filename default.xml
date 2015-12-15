@@ -398,7 +398,7 @@
  <project path="build" name="CPA-Poke/android_build" remote="github" revision="m" >
  <copyfile src="core/root.mk" dest="Makefile" />
  </project>
- <project path="art" name="platform/art" groups="pdk" />
+ <project path="art" name="android_art" remote="du" revision="m" />
  <project path="bionic" name="android_bionic" remote="du" revision="m" />
  <project path="development" name="android_development" remote="du" revision="m" />
  <project path="external/android-visualizer" name="android_external_android-visualizer" remote="du" revision="m" />
