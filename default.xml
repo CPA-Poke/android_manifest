@@ -483,7 +483,7 @@
  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-5.2" name="UBERTC/arm-eabi-5.2" remote="bb" revision="master" />
 
  <!-- vendor -->
- <project path="vendor/du" name="android_vendor_du" remote="du" revision="m" />
+ <project path="vendor/du" name="CPA-Poke/android_vendor_du" remote="github" revision="m" />
  <project path="vendor/motorola" name="android_vendor_motorola" remote="du" revision="m" />
 
 </manifest>
