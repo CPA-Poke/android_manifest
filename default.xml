@@ -13,9 +13,6 @@
           fetch="https://github.com/DirtyUnicorns/"
           review="gerrit.dirtyunicorns.com" />
 
- <remote  name="bb"
-          fetch="https://bitbucket.org/" />
-
  <default revision="refs/tags/android-6.0.1_r13"
           remote="aosp"
           sync-c="true"
@@ -481,7 +478,6 @@
 
  <!-- toolchain -->
  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.9" name="android-prebuilts-gcc-linux-x86-arm-arm-eabi-4.9" remote="du" revision="m" />
- <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-5.2" name="UBERTC/arm-eabi-5.2" remote="bb" revision="master" />
 
  <!-- vendor -->
  <project path="vendor/du" name="CPA-Poke/android_vendor_du" remote="github" revision="m" />
